@@ -1,4 +1,6 @@
-# l
+# MindInsightOut : traversing the brain inside out 
+
+
 
 <div align="center">
 
